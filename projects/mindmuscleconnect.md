@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scholarAssistImage.png
+image: img/mindmuscleimg.jpg
 title: "Mind Muscle Connect"
 date: 2024
 published: true
