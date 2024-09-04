@@ -6,10 +6,10 @@ title: "Mind Muscle Connect"
 date: 2024
 published: true
 labels:
-  - AI
-  - Vercel AI SDK
-  - Next.js
-  - React
+  - Performance
+  - Muscle Sensors
+  - Hardware
+  - Biomimicry
 summary: " I developed a prototype with the intent of increasing accessibility to high-level training through muscle activation tracking, using electrical muscle sensors, as a performance enhancer for athletes and people of all levels."
 ---
 <img class="img-fluid" src="../img/mindmuscleheader.png">
