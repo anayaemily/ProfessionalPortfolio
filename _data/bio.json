@@ -1,43 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Anaya Cole",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/anayaemily.png",
+    "email": "anaya4@hawaii.edu",
+    "phone": "808-308-3241",
+    "website": "https://anayaemily.github.io",
+    "summary": "I am studying for a B.CT. in Creative Technologies, conjoining Computer Science and Design programmes. I am in the Department of Future Environments at AUT, and now studying Computer Sciences in the Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024, and pursue postgraduate study after.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "anayaemily", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "anaya-cole-420424201", "url": "http://linkedin.com/in/changeme/" },
+      { "network": "twitter", "username": "anayaemily", "url": "http://twitter.com/changeme" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence Manipulation" },
+    { "name": "Effective Accelerationism (E/Acc)" },
+    { "name": "The intersection of Biomimicry and Technology" },
+    { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Typescript", "C++", "Java", "Javascript", "React", "NextJS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii, Honolulu, HI, Auckland University of Technology",
+      "area": "Computer Science, Creative Technologies",
+      "studyType": "B.CT/B.S",
+      "startDate": "2021-02-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,54 +44,49 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Google",
+      "position": "Software development, Area120 Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Interning in a team that was exploring AI solutions to existing problems within Google",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designing, Ideating and Building prototypes of AI models to improve google services",
+        "Lead intern for my team, spearheading the ideation and creation of our project"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Local NZ startup",
+      "position": "Intern web designer, react developer",
+      "startDate": "2023-11-01",
+      "endDate": "2024-02-15"
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Using figma to design key elements within the creation of the starups website",
+        "Implementing my designs into react components, alongside a design team"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Women in STEM society",
+      "position": "Student Lead of future environments",
+      "startDate": "2023-02-01",
+      "endDate": "2024-02-01",
+      "summary": "Head of organising internship, faculty and other student opportunities for the club",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Leading large industry networking events",
+        "Working alongside my fellow board members to provide a bridge between students and STEM industries"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Student",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Studying a cool course here"
       ]
     }
   ],
