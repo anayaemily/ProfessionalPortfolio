@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/scholarAssistImage.png
 title: "Scholar Assist"
 date: 2024
 published: true
