@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mindmuscleimg.jpg
+image: img/csdimg.png
 title: "Carbon Sequestering Device"
 date: 2023
 published: true
