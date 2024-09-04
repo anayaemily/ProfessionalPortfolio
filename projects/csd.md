@@ -11,7 +11,7 @@ labels:
   - Design
 summary: " I designed and created a 3d printed carbon sequestering device, with the aim of combatting ocean acidification"
 ---
-<img class="img-fluid" src="../img/mindmuscleheader.png">
+<img class="img-fluid" src="../img/csdHeaderImg.png">
 
 This project was based around creating a 3D printed carbon absorption device designed to address the environmental impact of CO2, mainly in oceans. I explored the design heavily, making a device that mimiced nature was important to keep seascapes inhabitable, or double as homes for creatures within the ocean. I wanted to explore the use of 3D-printed wood infused with Hilbert's optimally printed space-filling curves to enhance carbon absorption, and how that could be modelled within CAD software, to fulfil the needs of the project, and maintain an organic final form. 
 
