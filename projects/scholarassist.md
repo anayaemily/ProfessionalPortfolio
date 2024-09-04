@@ -24,4 +24,4 @@ Google Scholar Assist is an AI-powered research assistant that streamlines the r
 For this project, I was the lead devloper and created the idea to pursue. I was responsible for developing the AI functionalities, and designing the interfaces for the related components. I built an AI model with Vertex (Gemini), designed to enhance the efficacy of Google Scholar by rating the relevance and quality of the papers’ results. It analyzes the content of the articles that are provided to it, to determine their relevance based on user research needs. In the next iterations, I built tools which provide detailed summaries of articles, highlighting key findings and citations, as well as a tool to get specific quotes from the research paper based on your paragraph or research paper content.
 
 
-You can learn more and read the code on my git repository, [ScholarAssist]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://github.com/anayaemily/ScholarAssist)).
+You can learn more and read the code on my git repository, [ScholarAssist](https://github.com/anayaemily/ScholarAssist](https://github.com/anayaemily/ScholarAssist)).
