@@ -13,11 +13,6 @@ labels:
 summary: "I developed a prototype for an AI that rates and grades the efficacy of Scholarly articles, to improve the search function and evaluation of papers on Google Scholar."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 Google Scholar Assist is an AI-powered research assistant that streamlines the research process. It leverages the power of Google Scholar to intelligently analyze articles, extract key information, and provide insights to help researchers focus on what truly matters, by improving Search Accuracy and Information Retrieval with Artificial Intelligence.
 
