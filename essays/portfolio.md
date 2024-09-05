@@ -10,7 +10,7 @@ labels:
 ---
 
 
-*Converging passions; How my mosaic of interests led me to software engineering*
+*Converging passions: How my mosaic of interests led me to software engineering*
 
 My journey into this field has been a long one. As a young kid, I grew up in a household surrounded by technology, as my parents always had a passion for using technology to solve interesting problems. My dad studied software engineering so he could write software to answer the question of what makes athletes world class, and then he studied mathematics and statistics so he could analyze the data correctly. My house was a weird one, with the main focus of the technology being to enhance performance in sport, as my family is also crazy for sport. And art. And Music.. And a lot of other things as well. Growing up inside this mosaic of interests, with people around me excelling in each of them, I wanted to learn everything I could, about everything I could. 
 
