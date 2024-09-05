@@ -10,44 +10,13 @@ labels:
 ---
 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Typescript: Through the lens of self-teaching and academic assimilation*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Typescript, for me, was something I was thrown into during the first week of my first ever internship. I was tasked with the problem of making a full stack, functioning website with a design that looks good, within one week. My mentors wanted to see if I could not only survive, but work well in the environment I would exist in over the next four months of the internship. At the time, I had never used Typescript, I didn’t even know what React or Next.js were, and had barely any working knowledge of Javascript, so this was extremely daunting. Yet, I found a solution and then worked to design and implement react components for the next 4 months.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Because I was thrown into the deep end with learning Typescript, especially being self taught, so I ended up speeding through and over a lot of the content, to extract exactly what I needed to succeed in that situation. This meant I missed out on a lot of content I would have needed for a traditional university course environment. Also, because there was a specific way of doing things for the company, I only really got exposed to that. The benefit was that this startup was super AI friendly, like most coding environments are now, and I got set up to use copilot and ChatGPT/Claude for a lot of my problems and issues, and was encouraged to fix any and all bugs by myself, using these tools, before consulting my mentors. This prompted me to learn and to save time if it was an ‘intern level’ issue I was having, like forgetting a semicolon somewhere. By learning in a really fast paced environment such as this, and leaning heavily on the support of AI to code, I excelled in the conditions that I was given. This came at the expense of not having to  just burn the syntax of a language into my head, like you would in a course like scenario. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Even though I was thrown in the deep end for my internship, learning a new language and making a full stack website within a week, WODs are a whole new challenge for me.  I personally thrive on pressure in other facets of life, such as playing volleyball for the New Zealand women's national team, and playing games in front of crowds with thousands of people, but it is still unnerving to transfer that skill to the fast-paced coding WODs in class.  They are a new test, because they are different from any kind of pressure environment I have experienced before, even compared to exams and other tests. I think the frequency of the WODs are scary to me, as they require you to be consistently improving your knowledge of the language, and be able to perform well each week. 
+Despite this new pressure added to each class, I feel as though I will improve greatly, in both my fluency and quick-thinking skills while doing these WODs, and what better way to practice putting yourself under pressure than doing it repetitively and in front of an entire class of people! It will also be incredibly beneficial for future job interviews, especially as they get more technical when you move up the ranks, or go for more challenging, and rewarding jobs. Having a baseline confidence in your ability to solve problems, no matter when or how you are asked to, will make the process of job-searching so much less nerve-racking, so you are able to showcase who you really are as a candidate. 
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Pressure makes diamonds, and that will certainly be the case for this semester of learning. I have been faced with pressure environments before within my sport, and during exams, but this athletic software engineering structure will push me to perform in a different discipline. I am excited to embrace the intensity, assimilate the languages, and learn course content in a more challenging way.
