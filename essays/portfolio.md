@@ -10,44 +10,20 @@ labels:
 ---
 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Converging passions; How my mosaic of interests led me to software engineering*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+My journey into this field has been a long one. As a young kid, I grew up in a household surrounded by technology, as my parents always had a passion for using technology to solve interesting problems. My dad studied software engineering so he could write software to answer the question of what makes athletes world class, and then he studied mathematics and statistics so he could analyze the data correctly. My house was a weird one, with the main focus of the technology being to enhance performance in sport, as my family is also crazy for sport. And art. And Music.. And a lot of other things as well. Growing up inside this mosaic of interests, with people around me excelling in each of them, I wanted to learn everything I could, about everything I could. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+The past.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+This childhood helped me develop passions and explore niches that I would otherwise never know existed. After growing up around groups of polymaths, elite athletes, scholars, artists, and having pursued many of these disciplines in high school, the thought of choosing a single career path always seemed so daunting to me. I could never envision myself narrowing down my field of knowledge to only one expertise! This uncertainty was so unnerving, and yet had to decide what I was going to pursue. I settled on technology as a field, because it envelops so much and there are so many facets involved: I get to be creative, but also logical, expressionist, yet rigid. The field of computer science is such a vast one, where you don’t have to narrow your focus. I can apply my creative mindset to solving complex problems, or designing graphics and then creating them as react components, like I did in a previous internship. I can solve real issues with technologies, and computer science is the field that backs up technology. There is no hardware without the software to tell it what to do. 
 
-Here's what I think: the difficult things will always be difficult.
+The current.
 
-## In the context of programming
+Not a lot about the way we live currently is done without some form of technology. Technology is the broadest field of all, combining any and all other interests into one web, to connect the world in the sharing of knowledge, creating future solutions and environments, helping us as people, and as a society. This notion was especially evident in the years of COVID, and these years of experiencing how much we actually rely on technology for everything, is where I really decided on pursuing a future in technologies. This is also where I discovered the Creative technologies degree, at the Auckland University of Technology, a conjoint degree combining core papers from Computer science, and the exploration of how design methodologies and creative practices can be applied to technological outcomes, to improve the world around us. Naturally, I dived head first into this. These past two years of learning have shaped me and my interests today, helping me to cultivate and explore my passions. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+The future. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+After diving into Creative Tech, and exploring the field outside of University, I pursued internships for the last year, working at an AI startup and then at Google. My Google mentor was the team lead at Area120 (the inhouse incubator). Being exposed to these opportunities fills me with excitement for the future, as I want to pursue similar internships and jobs, working to improve the world, and accelerate technology to aid us as much as we can. In this past year, I have been drawn to the field of AI, neural networks, and machine learning, which is something that interests me beyond measure. I’ve always been interested in psychology and how the brain works, but in this field, instead of studying someone else’s brain,  you are effectively creating and fine tuning a “brain” within a computer. I am to deep dive into this field to increase both my knowledge and digital fluency, and contribute to such an interesting and fast paced discipline. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Pursuing software development has provided me with so much excitement, knowledge and experience, from when I was a kid, to my pursuits in university, to interning at Google, and now it has landed me halfway across the world, here at the University of Hawaii, studying computer science. I hope to accelerate my rate of learning, and to contribute positive changes and innovations to my field, and to aid my peers that have helped me get here, and the world around me.
