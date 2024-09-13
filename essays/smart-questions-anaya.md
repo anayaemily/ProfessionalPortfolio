@@ -25,13 +25,13 @@ The crucial takeaway is that asking smart questions requires effort, and the eff
 
 
 References;
-AnApprentice. (2009, December 22). How might I replace a portion of a link’s href attribute with a variable value? Stack Overflow. Retrieved September 10, 2024, from <https://stackoverflow.com/questions/1944037/how-might-i-replace-a-portion-of-a-links-href-attribute-with-a-variable-value>
+AnApprentice. (2009, December 22). How might I replace a portion of a link’s href attribute with a variable value? *Stack Overflow*. Retrieved September 10, 2024, from <https://stackoverflow.com/questions/1944037/how-might-i-replace-a-portion-of-a-links-href-attribute-with-a-variable-value>
 
-GManNickG. (2012, June 27). Why is processing a sorted array faster than processing an unsorted array? Stack Overflow. Retrieved September 10, 2024, from <https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>
+GManNickG. (2012, June 27). Why is processing a sorted array faster than processing an unsorted array? *Stack Overflow*. Retrieved September 10, 2024, from <https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>
 
-Meta Stack Exchange. (2010, January). About stupid questions asked on Stack Overflow. Meta Stack Exchange. Retrieved September 10, 2024, from <https://meta.stackexchange.com/questions/33606/about-stupid-questions-asked-on-stack-overflow>
+Meta Stack Exchange. (2010, January). About stupid questions asked on Stack Overflow. *Meta Stack Exchange*. Retrieved September 10, 2024, from <https://meta.stackexchange.com/questions/33606/about-stupid-questions-asked-on-stack-overflow>
 
 Raymond, E. S., & Moen, R. (2001). How to ask questions the smart way. Retrieved September 10, 2024, from <http://www.catb.org/esr/faqs/smart-questions.html>
 
-StackOverflow. (2012, June 27). Why is processing a sorted array faster than processing an unsorted array? StackOverflow. <https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>
+StackOverflow. (2012, June 27). Why is processing a sorted array faster than processing an unsorted array? *StackOverflow*. <https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>
 
