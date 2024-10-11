@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The effect of UI frameworks on efficacy"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-23
+date: 2024-10-10
 published: true
 labels:
   - UI frameworks
