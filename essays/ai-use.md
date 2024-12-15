@@ -35,8 +35,7 @@ For the final project, I used github copilot religiously. Having the ability to 
 ### Learning a concept / tutorial
 Within the context of learning concepts and tutorials, I found most of the content was present on the modules and external sites. I only used AI to summarise some modules and important pieces of content to refer back to throughout the week, and throughout the module of learning. I also found it really helpful when something in the modules was confusing or not assimilating into my head, to have it explained in a different way. 
 
-### Answering a question in class or in Discord  
-### Asking or answering a smart-question
+### Answering a question in class or in Discord  + Asking or answering a smart-question
 I did not use AI to help me ask or answer questions in discord, likewise with asking or answering a smart question within these servers, as I did not have the need to ask many tough questions, nor did I need clarity and understanding of other students' questions. 
 
 ### Coding example 
