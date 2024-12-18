@@ -9,7 +9,7 @@ labels:
   - 3D printed polymers
   - 3D CAD modelling
   - Design
-summary: " I designed and created a 3d printed carbon sequestering device, with the aim of combatting ocean acidification"
+summary: " I designed and created a 3d printed carbon sequestering device, with the aim of combatting ocean acidification."
 ---
 <img class="img-fluid" src="../img/csdHeaderImg.png">
 
