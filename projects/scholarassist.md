@@ -20,4 +20,4 @@ For this project, I was the lead devloper and created the idea to pursue. I was 
 
 This project was a really informative one for my own learning process, as I learned how to further fine-tune AI's, and I got to expand and employ previous knowledge on component creation from my previous internship, into this project. I also learned more about using Visual Studio Code as a platform, and gained more knowledge and practice with the interface during the process. This project also required a lot of background research into the functionality of Google Scholar, how consumers interact with it, and what improvements it could need, to even find the idea to pursue, so I learned a lot more about Google services during this process as well.
 
-You can learn more and read the code on my git repository, (https://github.com/anayaemily/ScholarAssist) .
+You can learn more and read the code on my [git repository](https://github.com/anayaemily/ScholarAssist) .
