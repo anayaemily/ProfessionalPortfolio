@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/thumbnail.png
+image: img/campuscookingthumbnail.png
 title: "Campus Cooking"
 date: 2024
 published: yes
