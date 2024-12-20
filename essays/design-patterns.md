@@ -8,7 +8,7 @@ published: true
 labels:
   - Design Patterns
 ---
-Building software with a blueprint: How design patterns inform my coding practices 
+### Building software with a blueprint: How design patterns inform my coding practices 
 
 When constructing a house, you wouldn’t start by nailing random drywall onto the foundation, or pouring concrete aimlessly. Instead, the construction team would follow detailed blueprints and plans that rely on previously established patterns and principles, to create a properly constructed home. In software development, design patterns serve a similar purpose to us with the construction of projects. They are the guidelines that bring intention and understanding to what would otherwise be a chaotic codebase. Applying design patterns is similar to building a home, with each part of the project contributing to building our digital project ‘house’. In this, I am both the architect and the builder. The blueprints (design patterns) guide my decisions, and the actual coding is the construction work. Just as blueprints provide standard solutions to architecture challenges, design patterns solve recurring software architecture problems.  
 
@@ -52,6 +52,9 @@ const recipes: Recipe[] = [
 // With all the recipes following this structure
 ];
 ```
+
+![Example of the Recipe interface implementation](/img/design-patterns-interface-example.png)
+
 
 The layout of this house is created using CSS grid styling and flexbox, which arranges the rooms (components) into the cohesive design of the home (project). The styling for this in the .categories-grid class organizes this recipe data into a visually pleasing and understandable grid layout, similar to how interior designers organize rooms to have functional use and aesthetic design.
 
