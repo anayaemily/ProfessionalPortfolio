@@ -9,6 +9,8 @@ labels:
   - Software Engineering
 ---
 
+### How Software Engineering has impacted my learning
+
 Throughout the semester in this course, I have gained valuable insights into software engineering in a broad sense, even though the content was centered around web development. The course introduced key software engineering principles and practices that can be applied in many other disciplines within the field. Although we touched on many different topics throughout the learning modules, I found Agile Project Management, Configuration Management and Design Patterns the most valuable, as they apply across all types of software development. 
 
 
