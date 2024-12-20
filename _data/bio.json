@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Typescript", "C++", "Java", "Javascript", "React", "NextJS" ]
+      "keywords": [ "Typescript", "C++", "Java", "Javascript", "React", "NextJS", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub"]
+      "keywords": [ "MacOS", "Git/GitHub", "Figma", "VSCode", "Vercel", "Xcode", "Unity" ]
     }
   ],
   "education": [
