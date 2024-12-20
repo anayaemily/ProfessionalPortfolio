@@ -32,11 +32,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI, Auckland University of Technology",
-      "area": "Computer Science, Creative Technologies",
-      "studyType": "B.CT/B.S",
-      "startDate": "2021-02-01",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S",
+      "startDate": "2024",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Auckland University of Technology",
+      "area": "Creative Technologies",
+      "studyType": "B.CT",
+      "startDate": "2022",
+      "endDate": "2024",
       "courses": [
       ]
     }
@@ -67,6 +76,14 @@
   ],
   "volunteer": [
     {
+      "organization": "New Zealand Women's Volleyball Team Libero",
+      "startDate": "2024",
+      "summary": "My main activity outside of academics, is volleyball. I play for my National team, most recently as the only libero for our international test series",
+      "highlights": [
+        "Debuting in my first international series for New Zealand"
+      ]
+    },
+    {
       "organization": "Women in STEM society",
       "position": "Student Lead of future environments",
       "startDate": "2023-02-01",
@@ -76,28 +93,20 @@
         "Leading large industry networking events",
         "Working alongside my fellow board members to provide a bridge between students and STEM industries"
       ]
-    },
-    {
-      "organization": "New Zealand Women's Volleyball Team Libero",
-      "startDate": "2024",
-      "summary": "My main activity outside of academics, is volleyball. I play for my National team, most recently as the only libero for our international test series",
-      "highlights": [
-        "Debuting in my first international series for New Zealand"
-      ]
     }
   ],
   "awards": [
-    {
-      "title": "Dux ",
-      "date": "2021",
-      "awarder": "Ao Tawhiti",
-      "summary": "I graduated at the top of my class, as the Top Academic Achiever in my school for the class of 2021"
-    },
     {
       "title": "BCT Top student",
       "date": "2023",
       "awarder": "AUT",
       "summary": "Top Academic Achiever in my faculty for 2023, following my top achievers awards for 2022. This also came with the award of BCT National Sportsperson, accompanied by a Sporting Blue from AUT, for my pursuits in international level sport"
+    },
+    {
+      "title": "Dux ",
+      "date": "2021",
+      "awarder": "Ao Tawhiti",
+      "summary": "I graduated at the top of my class, as the Top Academic Achiever in my school for the class of 2021"
     }
   ],
   "references": [
