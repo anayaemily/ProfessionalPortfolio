@@ -53,7 +53,7 @@ const recipes: Recipe[] = [
 ];
 ```
 
-![Example of the Recipe interface implementation](/img/design-patterns-interface-example.png)
+<img src="/img/design-patterns-interface-example.png" alt="Example of the Recipe interface implementation" style="max-width: calc(100% - 40px); padding: 0 20px; display: block;">
 
 
 The layout of this house is created using CSS grid styling and flexbox, which arranges the rooms (components) into the cohesive design of the home (project). The styling for this in the .categories-grid class organizes this recipe data into a visually pleasing and understandable grid layout, similar to how interior designers organize rooms to have functional use and aesthetic design.
