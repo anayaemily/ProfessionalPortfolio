@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-23
-published: true
+published: false
 labels:
   - Coding Conventions
 ---
