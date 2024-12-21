@@ -33,7 +33,7 @@ The crucial takeaway is that asking smart questions requires effort, and the eff
 
 
 
-##### References;
+##### References
 
 AnApprentice. (2009, December 22). How might I replace a portion of a link’s href attribute with a variable value? *Stack Overflow*. Retrieved September 10, 2024, from <https://stackoverflow.com/questions/1944037/how-might-i-replace-a-portion-of-a-links-href-attribute-with-a-variable-value>
 
