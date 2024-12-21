@@ -7,6 +7,8 @@ date: 2024-12-4
 published: true
 labels:
   - Design Patterns
+  - Software Architecture
+  - React
 ---
 ### Design Patterns as software Architecture
 

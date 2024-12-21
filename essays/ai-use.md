@@ -8,6 +8,7 @@ published: true
 labels:
   - AI use
   - AI education
+  - Learning Tools
 ---
 ## Reflecting on My use of AI in ICS314
 
