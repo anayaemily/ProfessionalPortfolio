@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Development through the lens of Software Engineering"
+title: "Development Through the Lens of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-18
 published: true
@@ -22,13 +22,13 @@ Agile Project Management is an iterative, flexible approach to software developm
 The main implementation of Agile Project management I got to learn and experience within this course was with IDPM (issue driven project management). IDPM enables teams to break larger projects down into manageable tasks that can be tracked, assigned, and completed incrementally using a management tool, which in our case was done through Github. Each issue listed represents a bug fix, new feature, workflow, or enhancement, that is worked on in separate branches, allowing for continuous improvement while maintaining security in the main branch. I really enjoyed the level of accountability that this provides, as team members must do the work they were assigned, which aligns with the overall project goals. 
 Outside of just web development, I can see Agile and IDPM being applied to different disciplines, like game development, computer graphics, research projects, and other application development projects. The Agile principles, constant feedback and adaptability makes IDPM a really valuable tool that I want to continue implementing in my other classes and personal projects.
 
-## Maintaining Order in Chaos
+#### Maintaining Order in Chaos
 
 Another software engineering principle that aligned extremely well with the accountability and iterative nature of Agile project management, was the consistency of configuration management. Configuration management in software engineering is the management process focusing on maintenance, consistency and control of a project in all manners, function, performance, design and much more. The management process enables us as developers to maintain integrity and traceability within a project, and manage the codebase appropriately for the best workflow. Github was a tool that played a crucial role in our configuration management during the final project, providing branch management, version controls, and other collaborative measures. 
 Configuration management is extremely important for consistency and the safety of a project, having strict roles and requirements allows for iterative development while staying controlled and organized, especially with bigger teams working on and contributing to projects. Branching strategies and pull requests allow us to not disturb the main codebase, and work simultaneously, and reviews before merges help us to maintain code quality. 
 Based on these consistencies and safety this management principle allows, it is evident that configuration management should and can be used in many other development environments, not just within web development.
 
-## Building with Purpose
+#### Building with Purpose
 
 Design Patterns are reusable solutions to common or recurring problems in software development. They provide a blueprint for solving issues for projects that allow for maintenance, efficiency and scalability. Some well known design patterns are the singleton design pattern, factory design pattern and compound components. Singleton patterns ensure classes only have one instance, which is useful for the management of shared resources, and compound components are a react design pattern that manages component nesting. 
 I have used design patterns within my projects this semester, namely the final project, to improve functionality, code readability, and in reusing components. For example, applying the factory design pattern in my own final web application allowed me to streamline object creation, by separating the creation of components from the code that uses them, ensuring both remain independently manageable.

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The role of AI as an aid to enhance education"
+title: "The Role of AI as an Aid to Enhance Education"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-14
 published: true
