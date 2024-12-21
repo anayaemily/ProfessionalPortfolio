@@ -57,11 +57,11 @@ const recipes: Recipe[] = [
 
 <img src="/img/design-patterns-interface-example.png" alt="Example of the Recipe interface implementation" style="max-width: calc(100% - 40px); padding: 0 20px; display: block;">
 
-### Styling the Architecture
+#### Styling the Architecture
 
 The layout of this house is created using CSS grid styling (a flexible way to arrange elements in columns and rows) and flexbox (a layout model for arranging items in a container), which arranges the rooms (components) into the cohesive design of the home (project). The styling for this in the .categories-grid class organizes this recipe data into a visually pleasing and understandable grid layout, similar to how interior designers organize rooms to have functional use and aesthetic design.
 
-### The Building Codes of Software
+#### The Building Codes of Software
 
 Every home must adhere to building codes to ensure safety and structural integrity. In software, Typescript interfaces (contracts that define the structure of data) and prop definitions serve as our built-in building codes for the digital home we are building, ensuring each component only deals with the data it is designed to, so it functions correctly. Take the post interface in the Instablog component for example: 
 ```typescript
@@ -73,7 +73,7 @@ interface Post {
   caption: string;
 }
 ```
-### Bringing It All Together
+#### Bringing It All Together
 
 Just as building codes specify standard door widths and ceiling heights, this interface ensures every post shown on the site has the required properties. The final assembly of the house is defined in the Composition Pattern. Just as an architect arranges the rooms and requirements into the final blueprints and design for a house, the separated page.tsx files for each linked page, composes all the individual components to serve a purpose on a functional webpage. This is where all the pieces come together, the room design, layout, structure, etc, to create a complete, aesthetically pleasing and usable application.
 
