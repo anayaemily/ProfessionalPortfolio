@@ -6,7 +6,7 @@ title: "Campus Cooking"
 date: 2024
 published: yes
 labels:
-  - Web development
+  - Web Development
   - UI/UX design
   - Application Development
   - React
