@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Technical Communication: How to Ask Questions That Get Answers"
+title: "The Art of Technical Communication"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-03
 published: true
@@ -12,7 +12,6 @@ labels:
   - Best Practices
   - Smart Questions
 ---
-
 #### The Power of Effective Communication
 
 Effective communication is really important in software engineering and development. While there are no ‘stupid’ questions, there are bad ones in the way they are framed. It is natural to ask a clumsy or poorly researched question once in a while, but taking steps to frame questions being asked on a public forum in a more concise way, will lead to more helpful answers and valuable learning situations, rather than creating frustration or embarrassment for questions that seem to be lazy or a waste of time. 
