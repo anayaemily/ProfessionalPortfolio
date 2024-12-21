@@ -43,5 +43,3 @@ Meta Stack Exchange. (2010, January). About stupid questions asked on Stack Over
 
 Raymond, E. S., & Moen, R. (2001). How to ask questions the smart way. Retrieved September 10, 2024, from <http://www.catb.org/esr/faqs/smart-questions.html>
 
-StackOverflow. (2012, June 27). Why is processing a sorted array faster than processing an unsorted array? *StackOverflow*. <https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>
-
