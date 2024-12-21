@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Building software with a blueprint"
+title: "Building Software with a Blueprint"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-4
 published: true
@@ -10,7 +10,7 @@ labels:
   - Software Architecture
   - React
 ---
-### Design Patterns as software Architecture
+### Design Patterns as Software Architecture
 
 When constructing a house, you wouldn't start by nailing random drywall onto the foundation, or pouring concrete aimlessly. Instead, the construction team would follow detailed blueprints and plans that rely on previously established patterns and principles, to create a properly constructed home. In software development, design patterns serve a similar purpose to us with the construction of projects. These patterns, developed and refined by the software development community over decades, provide structured approaches to solving common programming challenges. They are the guidelines that bring intention and understanding to what would otherwise be a chaotic codebase. Applying design patterns is similar to building a home, with each part of the project contributing to building our digital project 'house'. In this, I am both the architect and the builder. The blueprints (design patterns) guide my decisions, and the actual coding is the construction work. Just as blueprints provide standard solutions to architecture challenges, design patterns solve recurring software architecture problems.
 
