@@ -30,7 +30,7 @@ interface Recipe {
 const recipes: Recipe[] = [
   {
     id: 1,
-    title: 'Superfood Fruit Salad',
+    title: 'Superfood fruit salad',
     imageUrl: '/landing-img/acai.png',
     cookTime: '30 Minutes',
     category: 'Healthy',
